@@ -1,4 +1,4 @@
-package lld.design.patterns.observerpattern;
+package lld.design.patterns.observer;
 
 //Display could be the small block where I want to show price of single Stock. 
 public class DisplayImpl implements Display{

@@ -1,4 +1,4 @@
-package lld.design.patterns.observerpattern;
+package lld.design.patterns.observer;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

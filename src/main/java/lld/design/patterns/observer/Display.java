@@ -1,4 +1,4 @@
-package lld.design.patterns.observerpattern;
+package lld.design.patterns.observer;
 
 public interface Display {
     public void update(); 

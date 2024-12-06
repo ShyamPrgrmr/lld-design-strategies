@@ -1,4 +1,4 @@
-package lld.design.patterns.observerpattern;
+package lld.design.patterns.observer;
 
 public class App {
     public static void main(String[] args) throws InterruptedException {
