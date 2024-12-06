@@ -1,4 +1,4 @@
-package lld.design.patterns.AbstractFactory;
+package lld.design.patterns.abstractfactory;
 
 public enum CarSize {
     COMPACT("Compact Size Car"), MIDSIZE("Mid Size Car"), FULLSIZE("Full Size Car"); 

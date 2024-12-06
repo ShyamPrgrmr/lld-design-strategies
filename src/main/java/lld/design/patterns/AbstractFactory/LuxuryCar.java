@@ -1,4 +1,4 @@
-package lld.design.patterns.AbstractFactory;
+package lld.design.patterns.abstractfactory;
 
 public class LuxuryCar extends Type{
     private String brandName; 

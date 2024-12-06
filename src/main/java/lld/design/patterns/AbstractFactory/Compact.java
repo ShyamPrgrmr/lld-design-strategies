@@ -1,4 +1,4 @@
-package lld.design.patterns.AbstractFactory;
+package lld.design.patterns.abstractfactory;
 
 public class Compact implements Size{
     private String carName; 

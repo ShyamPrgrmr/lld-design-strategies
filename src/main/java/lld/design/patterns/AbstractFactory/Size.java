@@ -1,4 +1,4 @@
-package lld.design.patterns.AbstractFactory;
+package lld.design.patterns.abstractfactory;
 
 public interface Size {
     public String getSize(); 
