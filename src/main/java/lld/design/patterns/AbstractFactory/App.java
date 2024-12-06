@@ -10,5 +10,6 @@ public class App {
         System.out.println("Brand : "+car.getBrandName());
         System.out.println("Size : "+size.getSize());
         System.out.println("Name : "+size.getCarName());
+
     }   
 }
