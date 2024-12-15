@@ -1,6 +1,8 @@
 # LLD Design Strategies Practice Code Examples
 
-## Design Patterns :
+## Design Patterns : 
+
+[Direct Link](https://github.com/ShyamPrgrmr/lld-design-strategies/tree/master/src/main/java/lld/design/patterns)
 
 ### Creational Patterns
 - [x] Abstract Factory
