@@ -1,7 +1,32 @@
 # LLD Design Strategies Practice Code Examples
 
-## Covered : 
-1. Factory Method - Conditionally creating an objects. [link](https://github.com/ShyamPrgrmr/lld-design-strategies/tree/master/src/main/java/lld/design/patterns/factory)
-2. Abstract Factory Method - Factory of factories. [link](https://github.com/ShyamPrgrmr/lld-design-strategies/tree/master/src/main/java/lld/design/patterns/AbstractFactory)
-3. Stategy Design Pattern - To avoid code duplicy in child classes by creating strategy classes and interfaces. [link](https://github.com/ShyamPrgrmr/lld-design-strategies/tree/main/src/master/java/lld/design/patterns/strategydesign)
-4. Observer Patter - Observable and Observer pattern. Important method - (add, notify, update(Observer), getData, setData). [link](https://github.com/ShyamPrgrmr/lld-design-strategies/tree/main/src/main/java/lld/design/patterns/observerpattern)
+## Design Patterns :
+
+### Creational Patterns
+[x] Abstract Factory
+[x] Factory
+[x] Builder
+[x] Singleton
+[x] Prototype
+
+### Structural Patterns
+[x] Decorator
+[x] Adapter
+[] Bridge
+[] Composite
+[] Fecade
+[] Fly Weight
+[] Proxy
+
+### Behavioural Patterns
+[x] Strategy 
+[x] Observer
+[] Chain of responsibility
+[] Command
+[] Interpreter
+[] Iterator
+[] Mediator
+[] Memento
+[] State
+[] Teamplate method
+[] Visitor
