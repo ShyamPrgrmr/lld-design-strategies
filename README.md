@@ -12,21 +12,21 @@
 ### Structural Patterns
 [x] Decorator
 [x] Adapter
-[] Bridge
-[] Composite
-[] Fecade
-[] Fly Weight
-[] Proxy
+[ ] Bridge
+[ ] Composite
+[ ] Fecade
+[ ] Fly Weight
+[ ] Proxy
 
 ### Behavioural Patterns
 [x] Strategy 
 [x] Observer
-[] Chain of responsibility
-[] Command
-[] Interpreter
-[] Iterator
-[] Mediator
-[] Memento
-[] State
-[] Teamplate method
-[] Visitor
+[ ] Chain of responsibility
+[ ] Command
+[ ] Interpreter
+[ ] Iterator
+[ ] Mediator
+[ ] Memento
+[ ] State
+[ ] Teamplate method
+[ ] Visitor
