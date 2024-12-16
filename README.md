@@ -14,7 +14,7 @@
 ### Structural Patterns
 - [x] Decorator
 - [x] Adapter
-- [ ] Bridge
+- [x] Bridge
 - [ ] Composite
 - [ ] Fecade
 - [ ] Fly Weight

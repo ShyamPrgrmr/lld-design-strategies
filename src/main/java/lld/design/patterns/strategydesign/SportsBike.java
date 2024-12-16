@@ -1,8 +1,13 @@
 package lld.design.patterns.strategydesign;
-import lld.design.patterns.strategydesign.strategies.FastSpeedImpl;
+import lld.design.patterns.strategydesign.strategies.SpeedType;
 
 public class SportsBike extends Vehical{
     SportsBike(){
-        super(new FastSpeedImpl()); 
+        super(); 
+    }
+    //We can perform or add operation specific to this class. 
+    @Override
+    public void setSpeedType(SpeedType speedType) {
+        this.speedType = speedType; 
     }
 }
