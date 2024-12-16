@@ -1,0 +1,3 @@
+- To add layer of security on original object. 
+- Proxy has a referance of real object.
+- Can be used for logging, Audit, Complience, Security checks.  

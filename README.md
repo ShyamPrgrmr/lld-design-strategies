@@ -5,24 +5,24 @@
 [Direct Link](https://github.com/ShyamPrgrmr/lld-design-strategies/tree/master/src/main/java/lld/design/patterns)
 
 ### Creational Patterns
-- [x] Abstract Factory
-- [x] Factory
-- [x] Builder
-- [x] Singleton
-- [x] Prototype
+- [x] Abstract Factory - Factory of Factories. 
+- [x] Factory - Conditionally creating an object. 
+- [x] Builder - buid() method to build target class. 
+- [x] Singleton - Single object for entire application. 
+- [x] Prototype - Creating multiple obejcts of class. 
 
 ### Structural Patterns
-- [x] Decorator
-- [x] Adapter
-- [x] Bridge
+- [x] Decorator - Decorating Base with Toping.
+- [x] Adapter - Interface to add compatibility between two incompatible objects.  
+- [x] Bridge - Decoupling abstraction and implementation. 
 - [ ] Composite
-- [ ] Fecade
+- [x] Fecade - Hiding comlexity. 
 - [ ] Fly Weight
-- [ ] Proxy
+- [x] Proxy - Proxy for object implementing same interface. 
 
 ### Behavioural Patterns
-- [x] Strategy 
-- [x] Observer
+- [x] Strategy - Using strategies to avoid Class Explosion at same level.  
+- [x] Observer - Observable and Observer. (notify(), add(), update(), setData()) 
 - [ ] Chain of responsibility
 - [ ] Command
 - [ ] Interpreter
