@@ -15,7 +15,7 @@
 - [x] Bridge - Decoupling abstraction and implementation. 
 - [x] Composite - Tree like structure. Compisite and Leaf nodes. ex. Calculator's Arithmatic Evaluation. 
 - [x] Fecade - Hiding comlexity. 
-- [ ] Fly Weight
+- [x] Fly Weight - When we have limited Memory. 
 - [x] Proxy - Proxy for object implementing same interface. 
 
 ### Behavioural Patterns
