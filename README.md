@@ -13,7 +13,7 @@
 - [x] Decorator - Decorating Base with Toping.
 - [x] Adapter - Interface to add compatibility between two incompatible objects.  
 - [x] Bridge - Decoupling abstraction and implementation. 
-- [ ] Composite
+- [x] Composite - Tree like structure. Compisite and Leaf nodes. ex. Calculator's Arithmatic Evaluation. 
 - [x] Fecade - Hiding comlexity. 
 - [ ] Fly Weight
 - [x] Proxy - Proxy for object implementing same interface. 

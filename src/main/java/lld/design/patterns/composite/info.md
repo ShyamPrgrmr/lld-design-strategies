@@ -1,0 +1,4 @@
+- Composite Objects contains other same type of objects. 
+- In example we are creating simple calculator. 
+    - File object
+    - Folder object
