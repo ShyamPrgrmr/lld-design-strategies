@@ -21,7 +21,7 @@
 ### Behavioural Patterns
 - [x] Strategy - Using strategies to avoid Class Explosion at same level.  
 - [x] Observer - Observable and Observer. (notify(), add(), update(), setData()) 
-- [ ] Chain of responsibility
+- [x] Chain of responsibility - Each object has responsibility. 
 - [ ] Command
 - [ ] Interpreter
 - [ ] Iterator
