@@ -22,7 +22,7 @@
 - [x] Strategy - Using strategies to avoid Class Explosion at same level.  
 - [x] Observer - Observable and Observer. (notify(), add(), update(), setData()) 
 - [x] Chain of responsibility - Each object has responsibility. 
-- [ ] Command
+- [x] Command - To command something. Undo-Redo. 
 - [ ] Interpreter
 - [ ] Iterator
 - [ ] Mediator
