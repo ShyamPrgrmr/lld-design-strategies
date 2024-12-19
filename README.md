@@ -23,8 +23,8 @@
 - [x] Observer - Observable and Observer. (notify(), add(), update(), setData()) 
 - [x] Chain of responsibility - Each object has responsibility. 
 - [x] Command - To command something. Undo-Redo. 
-- [ ] Interpreter
-- [ ] Iterator
+- [x] Interpreter - Expression, Interpretor, Context, interprete(Context);  
+- [x] Iterator - Iterative methods. Collections, Aggregator, Iterator
 - [ ] Mediator
 - [ ] Memento
 - [ ] State
