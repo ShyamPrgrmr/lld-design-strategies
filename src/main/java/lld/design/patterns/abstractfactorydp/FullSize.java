@@ -1,22 +1,22 @@
-package lld.design.patterns.abstractfactory;
+package lld.design.patterns.abstractfactorydp;
 
-public class MidSize implements Size{
+public class FullSize implements Size{
     private String carName; 
-    public MidSize(){}
-    public MidSize (String carName){
+    
+    FullSize(){}
+    
+    FullSize(String carName){
         this.carName = carName; 
     }
 
     @Override
     public String getSize() {
-        return CarSize.MIDSIZE.carSize; 
+        return CarSize.FULLSIZE.carSize; 
     }
-
     @Override
     public void setCarName(String carName){
         this.carName = carName; 
     }
-
     @Override
     public String getCarName(){
         return this.carName; 
