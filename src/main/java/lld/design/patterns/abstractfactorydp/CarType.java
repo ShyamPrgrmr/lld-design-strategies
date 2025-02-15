@@ -1,4 +1,4 @@
-package lld.design.patterns.abstractfactory;
+package lld.design.patterns.abstractfactorydp;
 
 public enum CarType {
     LUXURY("Luxury Car"), ORDINARY("Ordinary Car");

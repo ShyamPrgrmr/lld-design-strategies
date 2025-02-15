@@ -1,0 +1,2 @@
+- In example client "App" only intrested in getting client details. EmployeeFacade will only share get method with Client.  
+- It is different than proxy as it can be used for multiple interfaces where proxy is tied to only one interface. 

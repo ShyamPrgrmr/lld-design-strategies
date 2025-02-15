@@ -1,4 +1,4 @@
-package lld.design.patterns.abstractfactory;
+package lld.design.patterns.abstractfactorydp;
 
 public class App {
     public static void main(String[] args) {

@@ -1,18 +1,16 @@
-package lld.design.patterns.abstractfactory;
+package lld.design.patterns.abstractfactorydp;
 
-public class OrdinaryCar extends Type{
-
+public class LuxuryCar extends Type{
     private String brandName; 
-
-    OrdinaryCar(){}
-    OrdinaryCar(String brandName){
+    LuxuryCar() {}
+    LuxuryCar(String brandName){
         this.brandName = brandName; 
     }
 
     @Override
     public String getCarType() {
-        return CarType.ORDINARY.carType; 
-    }  
+        return CarType.LUXURY.carType; 
+    }
 
     @Override
     public String getBrandName(){

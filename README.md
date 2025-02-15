@@ -1,34 +1,29 @@
-# LLD Design Strategies Practice Code Examples
+# LLD Design Strategies Code Examples
 
-## Design Patterns : 
-
-[Direct Link](https://github.com/ShyamPrgrmr/lld-design-strategies/tree/master/src/main/java/lld/design/patterns)
+## Design Patterns : [LINK](https://github.com/ShyamPrgrmr/lld-design-strategies/tree/master/src/main/java/lld/design/patterns)
 
 ### Creational Patterns
-- [x] Abstract Factory
-- [x] Factory
-- [x] Builder
-- [x] Singleton
-- [x] Prototype
+- [x] Abstract Factory - Factory of Factories. 
+- [x] Factory - Conditionally creating an object. 
+- [x] Builder - buid() method to build target class. 
+- [x] Singleton - Single object for entire application. 
+- [x] Prototype - Creating multiple obejcts of class. 
 
 ### Structural Patterns
-- [x] Decorator
-- [x] Adapter
-- [x] Bridge
-- [ ] Composite
-- [ ] Fecade
-- [ ] Fly Weight
-- [ ] Proxy
+- [x] Decorator - Decorating Base with Toping.
+- [x] Adapter - Interface to add compatibility between two incompatible objects.  
+- [x] Bridge - Decoupling abstraction and implementation. 
+- [x] Composite - Tree like structure. Compisite and Leaf nodes. ex. Calculator's Arithmatic Evaluation. 
+- [x] Fecade - Hiding comlexity. 
+- [x] Fly Weight - When we have limited Memory. 
+- [x] Proxy - Proxy for object implementing same interface. 
 
 ### Behavioural Patterns
-- [x] Strategy 
-- [x] Observer
-- [ ] Chain of responsibility
-- [ ] Command
-- [ ] Interpreter
-- [ ] Iterator
-- [ ] Mediator
-- [ ] Memento
-- [ ] State
-- [ ] Teamplate method
-- [ ] Visitor
+- [x] Strategy - Using strategies to avoid Class Explosion at same level.  
+- [x] Observer - Observable and Observer. (notify(), add(), update(), setData()) 
+- [x] Chain of responsibility - Each object has responsibility. 
+- [x] Command - To command something. Undo-Redo. 
+- [x] Interpreter - Expression, Interpretor, Context, interprete(Context);  
+- [x] Iterator - Iterative methods. Collections, Aggregator, Iterator
+- [x] Mediator - Mediator, Collegues, Online Auction System, Air Traffic Control System. 
+- [x] Teamplate method - When we want objects to follow certain steps. 

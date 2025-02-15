@@ -1,0 +1,1 @@
+1. Object need to follow certain pattern. for example to send a money one verify() -> debit() -> credit() -> compute(). This are the steps to follow, but implementation could be different for each method for different payment types ex. UPI, Credit Card, Debit Card etc.
