@@ -26,7 +26,4 @@
 - [x] Interpreter - Expression, Interpretor, Context, interprete(Context);  
 - [x] Iterator - Iterative methods. Collections, Aggregator, Iterator
 - [x] Mediator - Mediator, Collegues, Online Auction System, Air Traffic Control System. 
-- [ ] Memento
-- [ ] State
 - [x] Teamplate method - When we want objects to follow certain steps. 
-- [ ] Visitor
